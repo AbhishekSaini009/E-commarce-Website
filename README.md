@@ -6,10 +6,11 @@ Maven-group-Project(Eclipse).
 
 Eclipse| JAVA | HTML | CSS | Bootstrap | JAVA Script | J-Query | MYSQL database | EJS | API |Tomcat Server.
  
- Functions : 1. USER     = SignUp | Login | logOut | Add To Cart .
-             2. Seller   = SignUp | Login | logOut | Add Product | Watch products(upload product photos) .
-             3. Logistic = SignUp | Login | logOut | Recieve Order | PickUp Order.
-             4. Admin    = Login  |logOut | See activity of all remaing department | Block | Unblock.
+Functions : 
+1. USER     = SignUp | Login | logOut | Add To Cart .
+2. Seller   = SignUp | Login | logOut | Add Product | Watch products(upload product photos) .
+3. Logistic = SignUp | Login | logOut | Recieve Order | PickUp Order.
+4. Admin    = Login  |logOut | See activity of all remaing department | Block | Unblock.
  
  ScreenShots of Our WEB-PAGE :
 ![Screenshot (324)](https://user-images.githubusercontent.com/85728489/129079460-9bd4b225-c45a-4984-af27-615913f622c4.png)
