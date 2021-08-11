@@ -8,7 +8,7 @@ Eclipse| JAVA | HTML | CSS | Bootstrap | JAVA Script | J-Query | MYSQL database 
  
 Functions : 
 1. USER     = SignUp | Login | logOut | Add To Cart .
-2. Seller   = SignUp | Login | logOut | Add Product | Watch products(upload product photos) .
+2. Seller   = SignUp | Login | logOut | Add Product | Watch products(upload product photos).
 3. Logistic = SignUp | Login | logOut | Recieve Order | PickUp Order.
 4. Admin    = Login  |logOut | See activity of all remaing department | Block | Unblock.
  
